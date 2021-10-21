@@ -34,12 +34,13 @@ p{
     float:right;
     padding:3px;
     border:1px #E459EF solid;
+    margin-left: 5px;
 }
 
 .menu{
       clear:both;
       height:23px;
-      padding:40px 0 0 0;
+      padding:55px 0 0 30px;
 }
 
 .menu a{
@@ -128,16 +129,16 @@ ul.spisok li a:hover{
         margin:20px 0 0 30px;
 }
 
-#center_content{
-                width:950px;
-                height:auto;
-                clear:both;
-                padding-top:25px;
-                background:url(images/center_bg.jpg) no-repeat top center;
+#center_content {
+                width: 950px;
+                height: auto;
+                clear: both;
+                padding-top: 25px;
+                background: url(images/center_bg.gif) no-repeat top center;
 }
 
 .left_content{
-              width:400px;
+              width:398px;
               float:left;
               padding:20px;
 }
